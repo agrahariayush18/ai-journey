@@ -9,8 +9,18 @@ This repository documents my daily progress.
 
 ## 📅 Progress
 
-- Day 0: Setup GitHub + Python basics
-- Day 1: Coming soon...
+- Day 0: Setup GitHub + Python basics  
+- Day 1: Variables, data types, input/output + assignments  
+- Day 2: Conditionals (if-else) and loops (for, while)  
+
+---
+
+## 📂 Structure
+ai-journey/
+├── Day-01/
+├── Day-02/
+└── README.md
+
 
 ---
 
